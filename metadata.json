@@ -1,0 +1,6 @@
+{
+  "name": "Live TV Streamer",
+  "description": "Premium Live TV, Sports and Entertainment Streaming application with dynamic player, favorite system, and rich categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
